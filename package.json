@@ -1,0 +1,21 @@
+{
+  "name": "js-test-data-example",
+  "productName": "Examples of getting test data",
+  "version": "1.0.0",
+  "description": "Examples of reading files with test data. Contains examples for YAML, JSON and JS files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": "https://github.com/unrealgear/js-test-data-example",
+  "keywords": [
+    "js",
+    "test",
+    "data",
+    "yaml",
+    "json"
+  ],
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  }
+}
